@@ -11,7 +11,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 - Organizar e conduzir a semana de nivelamento dos novos membros. 
 - Selecionar trilhas de capacitação inicial no DataCamp e orientar os membros na consolidação dos conhecimentos adquiridos, incentivando a aplicação prática através do desenvolvimento de projetos guiados.
 - Desenvolver showcases de Finanças Quantitativas, Inteligência Artificial e/ou Engenharia de Dados para as reuniões gerais da entidade, com apresentações interativas de código e conceitos, a fim de inspirar e engajar os membros.
-- Liderar o início do desenvolvimento dos cases avançados de Inteligência Artificial e Finanças Quantitativas, estruturados como materiais didáticos completos, com explicações teóricas, exercícios e projetos práticos para serem desenvolvidos pelos membros.
+- Liderar o início do desenvolvimento dos cases avançados de Inteligência Artificial e Finanças Quantitativas, estruturados como materiais didáticos completos, com explicações teóricas, exercícios e projetos práticos para serem desenvolvidos pelos membros. 
 - Ajudar na fundação e execução da primeira edição do Quant Connect, evento que reúne as principais ligas de finanças quantitativas do Brasil — POLI Quant, Insper Quant, FGV Quant e FEA.dev — contribuindo para a definição da programação e o desenvolvimento dos conteúdos apresentados. ✅
 - Representar a parte técnica da FEA.dev em eventos e reuniões.
 
@@ -95,8 +95,8 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 - 🗂️ Repositório showcase — Reunião Geral II *(a criar)*
 - 🗂️ [Documentos e registros do Quant Connect](https://github.com/GB-Navarro/MAC0214/tree/main/Quant%20Connect%20-%20Documentos%20e%20Registros%20)
 - 📸 [Instagram Quant Connect](https://www.instagram.com/quant_connect?igsh=em9pbGdldDB5Z3lz)
-- 🤖 [Case de Inteligência Artificial](#) *(a adicionar)*
-- 💹 [Case de Finanças Quantitativas](#) *(a adicionar)*
+- 🤖 [Case de Inteligência Artificial](https://github.com/GB-Navarro/MAC0214/tree/main/Case%20de%20Intelig%C3%AAncia%20Artificial)
+- 💹 [Case de Finanças Quantitativas](https://github.com/GB-Navarro/MAC0214/blob/main/Case%20de%20Finan%C3%A7as%20Quantitativas/case_quant.ipynb)
 - 📊 [Relatórios e apresentações](#) *(a adicionar)*
 - 📚 [Bibliografia utilizada](#) *(a adicionar)*
 
