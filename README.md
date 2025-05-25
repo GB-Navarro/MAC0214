@@ -95,7 +95,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 - 📑 [Editais de projetos + formulário de submissão](https://github.com/GB-Navarro/MAC0214/tree/main/Editais%20de%20projetos%20%2B%20formul%C3%A1rio%20de%20submiss%C3%A3o)
 - 📚 [Material de POO + Materiais da semana de nivelamento] *(a adicionar)*
 - 🗂️ [Documentos sobre a capacitação dos membros](https://github.com/GB-Navarro/MAC0214/tree/main/Documentos%20sobre%20a%20capacita%C3%A7%C3%A3o%20dos%20membros)
-- 🗂️ [Projetos Certificação I](#)
+- 🗂️ [Projetos Certificação I](https://github.com/GB-Navarro/MAC0214/tree/main/Projetos%20Certifica%C3%A7%C3%A3o%20I)
 - 🗂️ [Projetos Trainee Básico I](#) *(a criar)*
 - 🗂️ [Projetos Trainee Básico II](#) *(a criar)*
 - 🗂️ [Projetos Trainee Avançado I](#) *(a criar)* 
