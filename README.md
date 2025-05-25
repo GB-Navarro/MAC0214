@@ -6,7 +6,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 
 ## 🎯 Objetivos
 
-- Contribuir para a reestruturação da entidade, criando a diretoria de tecnologia, definindo seu escopo e cargos, além de apoiar a definição e organização das demais funções da entidade.
+- Contribuir para a reestruturação da entidade, criando a diretoria de tecnologia, definindo seu escopo e cargos, além de apoiar a definição e organização das demais funções da entidade. 
 - Implementar a metodologia Scrum na entidade e estruturar uma metodologia interna de gestão de projetos.
 - Organizar e conduzir a semana de nivelamento dos novos membros. 
 - Selecionar trilhas de capacitação inicial no DataCamp e orientar os membros na consolidação dos conhecimentos adquiridos, incentivando a aplicação prática através do desenvolvimento de projetos guiados.
@@ -85,7 +85,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 
 ## 🔗 Links Importantes
 
-- 📂 [Organograma de projetos da FEA.Dev](https://github.com/GB-Navarro/MAC0214/tree/main/Organograma%20de%20projetos%20da%20FEA.Dev)
+- 📂 [Documentos sobre a reestruturação da entidade](#)
 - 📁 [Template de projetos + vídeo tutorial do Scrum](#) *(a adicionar)*
 - 📑 [Editais de projetos + formulários de submissão](#) *(a adicionar)*
 - 📚 [Material de POO + Google Classroom (Semana de Nivelamento — todos os tópicos)](#) *(a adicionar)*
@@ -93,8 +93,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 - 🗂️ Repositório FEA.dev — Projetos Certificação II *(a criar)*
 - 🗂️ Repositório showcase — Reunião Geral I *(a criar)*
 - 🗂️ Repositório showcase — Reunião Geral II *(a criar)*
-- 🗂️ Repositório showcase — Quant Connect *(a criar)*
-- 🗂️ [Documentos do Quant Connect — Diretoria de Conteúdo e Programação](https://github.com/GB-Navarro/MAC0214/tree/main/Quant%20Connect%20-%20Documentos%20e%20Registros%20)
+- 🗂️ [Documentos e registros do Quant Connect](https://github.com/GB-Navarro/MAC0214/tree/main/Quant%20Connect%20-%20Documentos%20e%20Registros%20)
 - 📸 [Instagram Quant Connect](https://www.instagram.com/quant_connect?igsh=em9pbGdldDB5Z3lz)
 - 🤖 [Case de Inteligência Artificial](#) *(a adicionar)*
 - 💹 [Case de Finanças Quantitativas](#) *(a adicionar)*
