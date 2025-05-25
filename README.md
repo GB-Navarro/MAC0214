@@ -87,7 +87,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 
 - 📂 [Documentos sobre a reestruturação da entidade](https://github.com/GB-Navarro/MAC0214/tree/main/Reestrutura%C3%A7%C3%A3o%20FEA.Dev)
 - 📁 [Template de projetos + vídeo tutorial de Scrum](https://github.com/GB-Navarro/MAC0214/tree/main/Template%20de%20projetos%20%2B%20v%C3%ADdeo%20tutorial%20de%20SCRUM)
-- 📑 [Editais de projetos + formulário de submissão](#) *(a adicionar)*
+- 📑 [Editais de projetos + formulário de submissão](https://github.com/GB-Navarro/MAC0214/tree/main/Editais%20de%20projetos%20%2B%20formul%C3%A1rio%20de%20submiss%C3%A3o)
 - 📚 [Material de POO + Google Classroom (Semana de Nivelamento — todos os tópicos)](#) *(a adicionar)*
 - 🗂️ Repositório FEA.dev — Projetos Certificação I *(a criar)*
 - 🗂️ Repositório FEA.dev — Projetos Certificação II *(a criar)*
