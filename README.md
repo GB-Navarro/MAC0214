@@ -31,10 +31,10 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 | Coordenação e desenvolvimento dos cases avançados (Inteligência Artificial e Finanças Quantitativas) | 🟡 Em andamento |
 | Organização dos membros em grupos para execução dos cases | 🔲 Pendente |
 | Avaliação dos projetos desenvolvidos nas trilhas I e II do DataCamp | 🔲 Pendente |
-| Contribuição na fundação e estruturação da primeira edição do Quant Connect | 🟡 Em andamento |
-| Desenvolvimento de showcase para o Quant Connect | 🔲 Pendente |
-| Preparação e apresentação do showcase da FEA.Dev no Quant Connect | 🔲 Pendente |
-| Apoio na execução do evento Quant Connect | 🔲 Pendente |
+| Contribuição na fundação e estruturação da primeira edição do Quant Connect | ✅ Concluído |
+| Desenvolvimento de showcase para o Quant Connect | ✅ Concluído |
+| Preparação e apresentação do showcase da FEA.Dev no Quant Connect | ✅ Concluído |
+| Apoio na execução do evento Quant Connect | ✅ Concluído |
 | Participação em reuniões semanais e quinzenais | 🟡 Em andamento |
 
 
@@ -94,7 +94,8 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 - 🗂️ Repositório showcase — Reunião Geral I *(a criar)*
 - 🗂️ Repositório showcase — Reunião Geral II *(a criar)*
 - 🗂️ Repositório showcase — Quant Connect *(a criar)*
-- 🗂️ Documentos do Quant Connect — Diretoria de Conteúdo e Programação *(a criar)*
+- 🗂️ [Documentos do Quant Connect — Diretoria de Conteúdo e Programação](https://github.com/GB-Navarro/MAC0214/tree/main/Quant%20Connect%20-%20Documentos%20e%20Registros%20)
+- 📸 [Instagram Quant Connect](https://www.instagram.com/quant_connect?igsh=em9pbGdldDB5Z3lz)
 - 🤖 [Case de Inteligência Artificial](#) *(a adicionar)*
 - 💹 [Case de Finanças Quantitativas](#) *(a adicionar)*
 - 📊 [Relatórios e apresentações](#) *(a adicionar)*
