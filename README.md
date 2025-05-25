@@ -70,7 +70,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 
 ### 📅 Maio — 35h
 - Seleção das trilhas no DataCamp para os membros 2025.1 e início do acompanhamento (5h) ✅
-- Avaliação dos projetos desenvolvidos pelos membros 2024.2 (5h) ✅
+- [Avaliação dos projetos desenvolvidos pelos membros 2024.2 (5h)](https://www.instagram.com/p/DJu8ug0tp6n/?igsh=MWkzMDBsbjFiNWk2eQ==) ✅
 - Continuação da coordenação e elaboração dos cases avançados (10h) ✅
 - Finalização e apresentação do showcase da FEA.DEV no Quant Connect (10h) ✅
 - Apoio na execução do evento Quant Connect (5h) ✅
