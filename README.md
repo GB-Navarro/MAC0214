@@ -85,7 +85,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 
 ## 🔗 Links Importantes
 
-- 📂 [Organograma de cargos da FEA.dev](#) *(a adicionar)*
+- 📂 [Organograma de projetos da FEA.Dev](#) *(a adicionar)*
 - 📁 [Template de projetos + vídeo tutorial do Scrum](#) *(a adicionar)*
 - 📑 [Editais de projetos + formulários de submissão](#) *(a adicionar)*
 - 📚 [Material de POO + Google Classroom (Semana de Nivelamento — todos os tópicos)](#) *(a adicionar)*
