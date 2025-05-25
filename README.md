@@ -85,7 +85,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 
 ## 🔗 Links Importantes
 
-- 📂 [Documentos sobre a reestruturação da entidade](#)
+- 📂 [Documentos sobre a reestruturação da entidade](https://github.com/GB-Navarro/MAC0214/tree/main/Reestrutura%C3%A7%C3%A3o%20FEA.Dev)
 - 📁 [Template de projetos + vídeo tutorial do Scrum](#) *(a adicionar)*
 - 📑 [Editais de projetos + formulários de submissão](#) *(a adicionar)*
 - 📚 [Material de POO + Google Classroom (Semana de Nivelamento — todos os tópicos)](#) *(a adicionar)*
