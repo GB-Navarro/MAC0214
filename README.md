@@ -85,7 +85,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 
 ## 🔗 Links Importantes
 
-- 📂 [Organograma de projetos da FEA.Dev](#) *(a adicionar)*
+- 📂 [Organograma de projetos da FEA.Dev](https://github.com/GB-Navarro/MAC0214/tree/main/Organograma%20de%20projetos%20da%20FEA.Dev)
 - 📁 [Template de projetos + vídeo tutorial do Scrum](#) *(a adicionar)*
 - 📑 [Editais de projetos + formulários de submissão](#) *(a adicionar)*
 - 📚 [Material de POO + Google Classroom (Semana de Nivelamento — todos os tópicos)](#) *(a adicionar)*
