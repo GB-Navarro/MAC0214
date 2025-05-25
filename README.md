@@ -26,12 +26,13 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 | Ajudar o RH da entidade na seleção de novos membros | ✅ Concluído |
 | Organização e condução da semana de nivelamento dos membros 2024.2 | ✅ Concluído |
 | Criação do material de POO utilizado na semana de nivelamento | ✅ Concluído |
-| Seleção das trilhas de capacitação inicial no DataCamp | ✅ Concluído |
+| Seleção das trilhas de capacitação no DataCamp | ✅ Concluído |
 | Acompanhamento e mentoria na aplicação prática dos conteúdos das capacitações | 🟡 Em andamento |
 | Desenvolvimento de um showcase para a reunião geral da entidade e para uma aula aberta na FEA-USP | ✅ Concluído |
 | Apresentação do showcase na reunião geral da entidade e em uma aula aberta na FEA-USP | ✅ Concluído |
 | Coordenar o início do desenvolvimento dos cases avançados da entidade (Inteligência Artificial e Finanças Quantitativas) | 🟡 Em andamento |
 | Avaliação dos projetos desenvolvidos durante o período de capacitação dos membros da entidade | 🔲 Pendente |
+| Organizar eventos para divulgar a entidade e promover temas alinhados aos seus interesses | 🟡 Em andamento |
 | Contribuição na fundação e estruturação da primeira edição do Quant Connect | ✅ Concluído |
 | Desenvolvimento de showcase para o Quant Connect | ✅ Concluído |
 | Preparação e apresentação do showcase da FEA.Dev no Quant Connect | ✅ Concluído |
@@ -69,11 +70,13 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 
 ### 📅 Maio — 35h
 - Seleção das trilhas no DataCamp para os membros 2025.1 e início do acompanhamento (5h) ✅
-- Avaliação dos projetos desenvolvidos pelos membros 2024.2 (5h) 
+- Avaliação dos projetos desenvolvidos pelos membros 2024.2 (5h) ✅
 - Continuação da coordenação e elaboração dos cases avançados (10h) ✅
 - Finalização e apresentação do showcase da FEA.DEV no Quant Connect (10h) ✅
 - Apoio na execução do evento Quant Connect (5h) ✅
-- Reuniões semanais da FEA.Dev (domingos, 9h) (5h)
+- Reuniões semanais da FEA.Dev (domingos, 9h) (5h) ✅
+- [Colaborar na organização de um evento interno com cientistas de dados da Kinea Investimentos](https://www.instagram.com/p/DKA0zTrOis2/?igsh=MWJob3hoenh0dnUwbw==) (--) ✅
+- [Colaborar na organização de um evento, no IME, com cientistas de dados atuantes no mercado financeiro](https://www.instagram.com/p/DJkgJDUuAzB/?igsh=MWQ0dGQxemZrOHNyZQ==) (--) ✅
 
 ---
 
@@ -90,12 +93,12 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 - 📂 [Documentos sobre a reestruturação da entidade](https://github.com/GB-Navarro/MAC0214/tree/main/Reestrutura%C3%A7%C3%A3o%20FEA.Dev)
 - 📁 [Template de projetos + vídeo tutorial de Scrum](https://github.com/GB-Navarro/MAC0214/tree/main/Template%20de%20projetos%20%2B%20v%C3%ADdeo%20tutorial%20de%20SCRUM)
 - 📑 [Editais de projetos + formulário de submissão](https://github.com/GB-Navarro/MAC0214/tree/main/Editais%20de%20projetos%20%2B%20formul%C3%A1rio%20de%20submiss%C3%A3o)
-- 📚 [Material de POO + Google Classroom (Semana de Nivelamento — todos os tópicos)](#) *(a adicionar)*
+- 📚 [Material de POO + Materiais da semana de nivelamento] *(a adicionar)*
 - 🗂️ [Documentos sobre a capacitação dos membros](https://github.com/GB-Navarro/MAC0214/tree/main/Documentos%20sobre%20a%20capacita%C3%A7%C3%A3o%20dos%20membros)
-- 🗂️ Repositório FEA.dev — Projetos Certificação I *(a criar)*
-- 🗂️ Repositório FEA.dev — Projetos Trainee Básico I *(a criar)*
-- 🗂️ Repositório FEA.dev — Projetos Trainee Básico II *(a criar)*
-- 🗂️ Repositório FEA.dev — Projetos Trainee Avançado I *(a criar)* 
+- 🗂️ [Projetos Certificação I](#)
+- 🗂️ [Projetos Trainee Básico I](#) *(a criar)*
+- 🗂️ [Projetos Trainee Básico II](#) *(a criar)*
+- 🗂️ [Projetos Trainee Avançado I](#) *(a criar)* 
 - 🗂️ [Repositório showcase — Reunião Geral + Aula Aberta](#)
 - 🗂️ [Documentos e registros do Quant Connect](https://github.com/GB-Navarro/MAC0214/tree/main/Quant%20Connect%20-%20Documentos%20e%20Registros%20)
 - 📸 [Instagram Quant Connect](https://www.instagram.com/quant_connect?igsh=em9pbGdldDB5Z3lz)
