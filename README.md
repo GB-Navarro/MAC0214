@@ -11,7 +11,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 - Organizar e conduzir a semana de nivelamento dos novos membros. 
 - Selecionar trilhas de capacitação inicial no DataCamp e orientar os membros na consolidação dos conhecimentos adquiridos, incentivando a aplicação prática através do desenvolvimento de projetos guiados.
 - Desenvolver showcases de Finanças Quantitativas, Inteligência Artificial e/ou Engenharia de Dados para as reuniões gerais da entidade, com apresentações interativas de código e conceitos, a fim de inspirar e engajar os membros.
-- Liderar o desenvolvimento dos cases avançados de Inteligência Artificial e Finanças Quantitativas, estruturados como materiais didáticos completos, com explicações teóricas, exercícios e projetos práticos para serem desenvolvidos pelos membros.
+- Liderar o início do desenvolvimento dos cases avançados de Inteligência Artificial e Finanças Quantitativas, estruturados como materiais didáticos completos, com explicações teóricas, exercícios e projetos práticos para serem desenvolvidos pelos membros.
 - Ajudar na fundação e execução da primeira edição do Quant Connect, evento que reúne as principais ligas de finanças quantitativas do Brasil — POLI Quant, Insper Quant, FGV Quant e FEA.dev — contribuindo para a definição da programação e o desenvolvimento dos conteúdos apresentados. ✅
 - Representar a parte técnica da FEA.dev em eventos e reuniões.
 
@@ -46,7 +46,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 - Criar a diretoria de tecnologia e definir seu escopo e cargos (5h) ✅
 - Entrevistar e selecionar membros para a diretoria de tecnologia (2h) ✅
 - Definir a metodologia de projetos e criar o template Scrum da entidade (5h) ✅
-- Iniciar coordenação e a elaboração dos cases avançados (5h) 
+- Iniciar coordenação e a elaboração dos cases avançados (5h) ✅
 - Organizar a semana de nivelamento dos novos membros (5h)
 - Desenvolver o material de POO da semana de capacitação (5h)
 - Seleção das trilhas no DataCamp e início do acompanhamento (--)
@@ -57,7 +57,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 
 ### 📅 Abril — 35h
 - Mentoria em projetos práticos baseados nas trilhas I (5h)
-- Continuação da coordenação e elaboração dos cases avançados (10h)
+- Continuação da coordenação e elaboração dos cases avançados (10h) ✅
 - Desenvolvimento do showcase para o Quant Connect (5h) ✅
 - Afazeres administrativos do Quant Connect (5h) ✅
 - Reuniões semanais da FEA.Dev (domingos, 9h) e reuniões quinzenais do Quant Connect (sábados, 9h) (10h) ✅
@@ -67,7 +67,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 ### 📅 Maio — 40h
 - Avaliação dos projetos desenvolvidos na trilha I (5h)
 - Mentoria em projetos práticos baseados nas trilhas II (5h)
-- Continuação da coordenação e elaboração dos cases avançados (10h)
+- Continuação da coordenação e elaboração dos cases avançados (10h) ✅
 - Finalização e apresentação do showcase da FEA.DEV no Quant Connect (10h) ✅
 - Apoio na execução do evento Quant Connect (5h) ✅
 - Criação e apresentação de um showcase para a segunda reunião geral (5h)
@@ -76,7 +76,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 ---
 
 ### 📅 Junho — 25h
-- Finalizar o desenvolvimento dos cases avançados (10h)
+- Continuar a coordenação e o desenvolvimento dos cases avançados (10h)
 - Organização dos membros em grupos para execução dos cases (5h)
 - Avaliação final dos projetos da trilha II do DataCamp (5h)
 - Reuniões semanais da FEA.Dev (domingos, 9h) (5h)
