@@ -6,8 +6,8 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 
 ## 🎯 Objetivos
 
-- Contribuir para a reestruturação da entidade, criando a diretoria de tecnologia, definindo seu escopo e cargos, além de apoiar a definição e organização das demais funções da entidade. 
-- Implementar a metodologia Scrum na entidade e estruturar uma metodologia interna de gestão de projetos.
+- Contribuir para a reestruturação da entidade, criando a diretoria de tecnologia, definindo seu escopo e cargos, além de apoiar a definição e organização das demais funções da entidade. ✅
+- Implementar a metodologia Scrum na entidade e estruturar uma metodologia interna de gestão de projetos. ✅
 - Organizar e conduzir a semana de nivelamento dos novos membros. 
 - Selecionar trilhas de capacitação inicial no DataCamp e orientar os membros na consolidação dos conhecimentos adquiridos, incentivando a aplicação prática através do desenvolvimento de projetos guiados.
 - Desenvolver showcases de Finanças Quantitativas, Inteligência Artificial e/ou Engenharia de Dados para as reuniões gerais da entidade, com apresentações interativas de código e conceitos, a fim de inspirar e engajar os membros.
@@ -43,10 +43,10 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 ## 📆 Planejamento e Alocação de Horas
 
 ### 📅 Março — 40h
-- Criar a diretoria de tecnologia e definir seu escopo e cargos (5h)
-- Entrevistar e selecionar membros para a diretoria de tecnologia (2h)
-- Definir a metodologia de projetos e criar o template Scrum da entidade (5h)
-- Iniciar coordenação e a elaboração dos cases avançados (5h)
+- Criar a diretoria de tecnologia e definir seu escopo e cargos (5h) ✅
+- Entrevistar e selecionar membros para a diretoria de tecnologia (2h) ✅
+- Definir a metodologia de projetos e criar o template Scrum da entidade (5h) ✅
+- Iniciar coordenação e a elaboração dos cases avançados (5h) 
 - Organizar a semana de nivelamento dos novos membros (5h)
 - Desenvolver o material de POO da semana de capacitação (5h)
 - Seleção das trilhas no DataCamp e início do acompanhamento (--)
