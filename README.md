@@ -51,7 +51,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 - Desenvolver o material de POO da semana de capacitação (5h)
 - Seleção das trilhas no DataCamp e início do acompanhamento (5h)
 - Desenvolvimento do showcase de Finanças Quantitativas e IA para a reunião geral (5h)
-- [Apresentação do showcase de Finanças Quantitativas e IA na reunião geral](#) (--)
+- [Apresentação do showcase de Finanças Quantitativas e IA na reunião geral](https://www.instagram.com/p/DIPia-MM983/?igsh=Ymptc3pvbXVqc255) (--)
 - Reuniões semanais da FEA.Dev (domingos, 9h) e reuniões quinzenais do Quant Connect (sábados, 9h) (8h) ✅
 
 ---
@@ -62,7 +62,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 - Desenvolvimento do showcase para o Quant Connect (5h) ✅
 - Afazeres administrativos do Quant Connect (5h) ✅
 - Reuniões semanais da FEA.Dev (domingos, 9h) e reuniões quinzenais do Quant Connect (sábados, 9h) (10h) ✅
-- [Apresentação do showcase de Finanças Quantitativas e IA em uma aula aberta na FEA-USP](#) (--)
+- [Apresentação do showcase de Finanças Quantitativas e IA em uma aula aberta na FEA-USP](https://www.instagram.com/p/DJDBXfpNtpW/?igsh=b2hqa2J3cHlyeHA0) (--)
 ---
 
 ### 📅 Maio — 35h
