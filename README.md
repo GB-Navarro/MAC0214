@@ -61,8 +61,8 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 
 ---
 
-### 📅 Maio — 35h
-- [Criação de trilhas de capacitação no DataCamp para os membros da entidade e início do acompanhamento desse processo](https://www.instagram.com/p/DI2JbgyOiQE/?igsh=emE0M29tcGVkcXFp) (5h) ✅  
+### 📅 Maio — 40h
+- [Criação de trilhas de capacitação no DataCamp para os membros da entidade e início do acompanhamento desse processo](https://www.instagram.com/p/DI2JbgyOiQE/?igsh=emE0M29tcGVkcXFp) (10h) ✅  
 - [Avaliação dos projetos desenvolvidos pelos membros 2024.2 durante a capacitação ](https://www.instagram.com/p/DJu8ug0tp6n/?igsh=MWkzMDBsbjFiNWk2eQ==) (5h) ✅  
 - Continuidade na coordenação e elaboração dos cases avançados (5h) ✅  
 - Apoio na execução do evento Quant Connect (10h) ✅  
@@ -82,7 +82,7 @@ Esta página documenta minha atuação como Diretor de Tecnologia na gestão 202
 - 📂 [Documentos sobre a reestruturação da entidade](https://github.com/GB-Navarro/MAC0214/tree/main/Reestrutura%C3%A7%C3%A3o%20FEA.Dev)
 - 📁 [Template de projetos + vídeo tutorial de Scrum](https://github.com/GB-Navarro/MAC0214/tree/main/Template%20de%20projetos%20%2B%20v%C3%ADdeo%20tutorial%20de%20SCRUM)
 - 📑 [Editais de projetos + formulário de submissão](https://github.com/GB-Navarro/MAC0214/tree/main/Editais%20de%20projetos%20%2B%20formul%C3%A1rio%20de%20submiss%C3%A3o)
-- 📚 [Material de POO] *(a adicionar)*
+- 📚 [Material de POO](https://github.com/GB-Navarro/MAC0214/tree/main/Material%20de%20POO)
 - 🗂️ [Documentos sobre a capacitação dos membros](https://github.com/GB-Navarro/MAC0214/tree/main/Documentos%20sobre%20a%20capacita%C3%A7%C3%A3o%20dos%20membros)
 - 🗂️ [Projetos membros 2024.2](https://www.instagram.com/p/DJu8ug0tp6n/?img_index=5&igsh=MWkzMDBsbjFiNWk2eQ==)
 - 🗂️ [Projetos membros 2024.2 (Github)](https://github.com/GB-Navarro/MAC0214/tree/main/Projetos%20Certifica%C3%A7%C3%A3o%20I)
